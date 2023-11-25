@@ -1,6 +1,6 @@
 #Design Choices
 
-- As done in the original site, no such bigger additional desgin choices from my side.
+- As done in the original site, no such bigger additional design choices from my side.
 
 - Tried to stick to the original Theme & personality of the entire original Homepage(like background-color, color, fonts-styles, layouts, etc). Tried to keep it consistent throughout.
 
